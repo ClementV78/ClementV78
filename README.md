@@ -1,32 +1,87 @@
-# 👋 Welcome to My GitHub!
+# 👋 Welcome to My GitHub
 
 ## 🚀 About Me
-I'm a **developer** passionate about **DevOps, Cloud, AI, and Web3**.  
-We are living in an **era of radical transformation**, where **AI and Web3** are reshaping **every industry**, from **finance to healthcare, logistics, and entertainment**. I firmly believe that **AI is the most groundbreaking technological revolution of the past 30 years**, unlocking **limitless opportunities** in automation, intelligence, and decision-making.
 
-### 🔥 What Drives Me?
-- **DevOps & Cloud** – Automating, scaling, and optimizing infrastructure for **resilience, efficiency, and cost reduction**. The future of cloud is **decentralized and distributed**, allowing businesses to **escape vendor lock-in** and gain **unmatched flexibility**.
-  
-- **Artificial Intelligence** – AI isn't just about automation; it's about **enhancing human potential**. From **LLMs to real-time decision-making**, AI is revolutionizing fields like **medicine, finance, cybersecurity, and even creative industries**.
+Cloud & DevOps engineer with a strong background in large-scale systems and distributed architectures.  
+I design and build **production-ready, observable, and cost-efficient cloud platforms**, with a pragmatic approach to automation and infrastructure engineering.
 
-- **Web3 & Blockchain** – Beyond crypto, **blockchain technology** is reshaping **trust, transparency, and ownership**. **Tokenization (RWA - Real World Assets)** is a game-changer, allowing **real estate, art, and even businesses** to be fractionalized, traded, and secured on the blockchain.
+My work focuses on:
 
-## 🌍 Why It Matters?
-💡 **Everything can be enhanced with AI** – Whether it's **automating tedious tasks, predicting trends, or personalizing user experiences**, AI is **not the future, it's already here**.  
-🔗 **Web3 redefines ownership** – Decentralized identity, **decentralized finance (DeFi)**, and **RWA tokenization** are unlocking a new economic model, where **power is shifting back to individuals**.  
-☁️ **Cloud needs to evolve** – **Distributed cloud computing** will **change the way we build, scale, and deploy applications**, making infrastructure more **resilient, cost-effective, and censorship-resistant**.
+- ☁️ Cloud Architecture  
+- ⚙️ DevOps & Platform Engineering  
+- 🤖 AI-driven systems  
+- 🌐 Distributed infrastructure  
 
-## 🛠️ Tech Stack
-- **Cloud & Infrastructure**: AWS | Kubernetes | Terraform | Docker | CI/CD | Distributed Cloud
-- **Artificial Intelligence**: Python | LLMs | AI-powered Automation
-- **Web3 & Tokenization**: Solidity | Smart Contracts | Ethereum | RWA | IPFS | Decentralized Storage
-- **Backend & Automation**: Python | Java | Shell Scripting
+I care about **clean architecture, operational excellence, scalability, and real-world constraints** (cost, resilience, maintainability).
 
-## 📢 My Vision
-I’m always looking for **new frontiers to explore**, whether it's **scaling cloud architectures**, pushing **AI-powered automation**, or building **trustless Web3 ecosystems**.  
+---
 
-🇫🇷 Proudly French, I love my country and embrace **technological progress**.  
-🌍 Open to collaborations and discussions on the **future of AI, Web3, and decentralized cloud computing**.
+# 🌟 Featured Project – CloudRadar
 
+**CloudRadar** is my end-to-end showcase project.
 
-Feel free to explore my repositories and contribute! 🚀
+It is designed as a **realistic production-grade platform**, close to what we build in enterprise environments.
+
+## 🎯 What It Demonstrates
+
+- Real-time **ADS-B aviation data ingestion**
+- Infrastructure as Code with **Terraform**
+- Kubernetes orchestration (k3s)
+- GitOps deployment using **ArgoCD**
+- Secret management via **External Secrets Operator**
+- Observability stack (**Prometheus + Grafana**)
+- Cost-aware architecture (FinOps mindset)
+- Cloud-agnostic design principles
+
+## 🏗️ Architecture Philosophy
+
+- Minimal reliance on managed services  
+- Reduced vendor lock-in  
+- Reproducible infrastructure  
+- Observable by design  
+- Security-first configuration  
+
+> Build small. Scale smart. Observe everything.
+
+---
+
+# 🛠️ Core Stack
+
+## ☁️ Cloud & Platform
+AWS • Kubernetes • Terraform • Docker • ArgoCD • CI/CD • GitOps  
+
+## 🔧 Backend & Automation
+Python • Java • REST APIs • Event-driven workflows  
+
+## 📊 Observability & Operations
+Prometheus • Grafana • Structured logging • Metrics-driven decisions  
+
+## 🤖 AI Exploration
+LLM integration • Automation workflows • Applied AI in infrastructure contexts  
+
+---
+
+# 🧠 Engineering Mindset
+
+I’m motivated by:
+
+- Turning complexity into structured, automated systems  
+- Designing architectures that handle real-world traffic  
+- Bridging development and operations cleanly  
+- Building systems that are observable and measurable  
+
+Technology should be **robust, scalable, and maintainable** — not just innovative.
+
+---
+
+# 🌍 Collaboration
+
+Open to discussions around:
+
+- Cloud architecture  
+- Platform engineering  
+- DevOps transformation  
+- AI applied to infrastructure  
+
+Feel free to explore the repositories.  
+If something resonates with your needs, let’s connect.
