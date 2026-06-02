@@ -57,7 +57,7 @@ Python • Java • REST APIs • Event-driven workflows
 Prometheus • Grafana • Structured logging • Metrics-driven decisions  
 
 ## 🤖 AI Exploration
-LLM integration • Automation workflows • Applied AI in infrastructure contexts  
+LLM integration • Automation workflows • Agentic AI • Applied AI in infrastructure contexts  
 
 ---
 
